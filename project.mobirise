@@ -48,7 +48,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/bts-128x111-1.png",
     "noImageResize": "",
     "uniqCompNum": 36,
-    "versionPublish": "4.12.4",
+    "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "imageResize": true,
     "robotsSwitcher": false,
@@ -56,7 +56,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
